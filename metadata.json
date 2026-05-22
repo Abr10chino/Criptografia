@@ -1,0 +1,6 @@
+{
+  "name": "MatrixCipher",
+  "description": "Sistema de Codificación y Decodificación mediante Matrices",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
